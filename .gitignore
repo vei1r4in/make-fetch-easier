@@ -1,0 +1,12 @@
+# mac os
+.DS_Store
+
+# webstorm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# npm
+node_modules/
+dist/
